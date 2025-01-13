@@ -20,23 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Vídeo: História da Criação da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo apresenta uma breve história sobre a criação da IA de um jeito simples e divertido.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa ChatGPT para criação de conteúdo
+- IA Generativa Elevenlabs para transformação de texto para fala
+- IA Generativa D-ID para geração de avatar virtual
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o ¨ChatGPT" para a criação do texto sobre a história da IA, depois no Elevenlabs pude escolher a voz e transformar o texto em fala, fiz o download da voz para o D-ID e criei o avatar. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo faz uma pequena introdução sobre o surgimento das IAs para quem é curioso e está iniciando neste interessante universo.
+https://studio.d-id.com/share?id=57aa71f7acf57fbea17a73f636b8a72c&utm_source=copy
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Este projeto foi um grande desafio pois foi minha estréia na utilização de IA.
 
 ### Exemplos e Insigths
 
